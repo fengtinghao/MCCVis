@@ -1,0 +1,2782 @@
+{
+    "visit": [
+        {
+            "vId": 0,
+            "date": "Prior history",
+            "speciality": "Before Mayo",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": []
+        },
+        {
+            "vId": 1,
+            "date": "2017-08-08 00:00:00",
+            "speciality": "Endocrinologist",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Multinodular goiter",
+                    "level": "Low",
+                    "action": {
+                        "Suggest ultrasound": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Fatigue",
+                    "level": "Severe",
+                    "action": {
+                        "Refer to fatigure clinic": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "insomnia",
+                    "level": "High",
+                    "action": {
+                        "Refer to sleep clinic ": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "cough",
+                    "level": "High",
+                    "action": {
+                        "Refer to pulmonologist": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "shortness of breath",
+                    "level": "High",
+                    "action": {
+                        "Order pulmonary function test": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "mood disorder",
+                    "level": "High",
+                    "action": {
+                        "Refer to psychiatrist": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "ringing in the ears",
+                    "level": "High",
+                    "action": {
+                        "Refer to ENT": ""
+                    },
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "Suggest ultrasound",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 2,
+                    "action": "Refer to fatigure clinic",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 3,
+                    "action": "Refer to sleep clinic ",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 4,
+                    "action": "Refer to pulmonologist",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 5,
+                    "action": "Order pulmonary function test",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 6,
+                    "action": "Order x-ray ",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 7,
+                    "action": "Refer to psychiatrist",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 8,
+                    "action": "Refer to ENT",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 2,
+            "date": "2017-08-18 00:00:00",
+            "speciality": "Lab result update",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Multinodular goiter",
+                    "level": "Low",
+                    "action": {
+                        "Suggest ultrasound": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Fatigue",
+                    "level": "Severe",
+                    "action": {
+                        "Refer to fatigure clinic": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "insomnia",
+                    "level": "High",
+                    "action": {
+                        "Refer to sleep clinic ": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "cough",
+                    "level": "High",
+                    "action": {
+                        "Refer to pulmonologist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "shortness of breath",
+                    "level": "High",
+                    "action": {
+                        "Order pulmonary function test": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "mood disorder",
+                    "level": "High",
+                    "action": {
+                        "Refer to psychiatrist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "ringing in the ears",
+                    "level": "High",
+                    "action": {
+                        "Refer to ENT": ""
+                    },
+                    "update": 0,
+                    "active": false
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "Suggest ultrasound",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "Refer to fatigure clinic",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "Refer to sleep clinic ",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 4,
+                    "action": "Refer to pulmonologist",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "Order pulmonary function test",
+                    "msg": "normal",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 6,
+                    "action": "Order x-ray ",
+                    "msg": "Bilateral pleural effusions",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 7,
+                    "action": "Refer to psychiatrist",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Refer to ENT",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                }
+            ]
+        },
+        {
+            "vId": 3,
+            "date": "2017-08-18 00:00:00",
+            "speciality": "pulmonologist",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Multinodular goiter",
+                    "level": "Low",
+                    "action": {
+                        "Suggest ultrasound": ""
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Fatigue",
+                    "level": "Severe",
+                    "action": {
+                        "Refer to fatigure clinic": ""
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "insomnia",
+                    "level": "High",
+                    "action": {
+                        "Refer to sleep clinic ": ""
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "cough",
+                    "level": "High",
+                    "action": {
+                        "Refer to pulmonologist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "shortness of breath",
+                    "level": "High",
+                    "action": {
+                        "Order pulmonary function test": "",
+                        "Refer to pulmonologist": "completed"
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "mood disorder",
+                    "level": "High",
+                    "action": {
+                        "Refer to psychiatrist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "ringing in the ears",
+                    "level": "High",
+                    "action": {
+                        "Refer to ENT": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 10,
+                    "source": "",
+                    "name": "Lower extremity edema",
+                    "level": "High",
+                    "action": {
+                        "Suggest NT proBNP": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 11,
+                    "source": "",
+                    "name": "Bilateral pleural effusions",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "cough/GERD",
+                    "level": "High",
+                    "action": {
+                        "Prescribe omeprazole": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "Obesity",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "Suggest ultrasound",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "Refer to fatigure clinic",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "Refer to sleep clinic ",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 4,
+                    "action": "Refer to pulmonologist",
+                    "msg": "completed",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 5,
+                    "action": "Order pulmonary function test",
+                    "msg": "normal",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Order x-ray ",
+                    "msg": "Bilateral pleural effusions",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Refer to psychiatrist",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Refer to ENT",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "Order exhaled oral nitric oxide",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 10,
+                    "action": "Suggest NT proBNP",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 11,
+                    "action": "Order Electrocardiogram",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 12,
+                    "action": "Prescribe omeprazole",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 13,
+                    "action": "Elevate head of the bead and lifestyle modification",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 4,
+            "date": "2017-10-04 00:00:00",
+            "speciality": "Lab result update",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Multinodular goiter",
+                    "level": "Low",
+                    "action": {
+                        "Suggest ultrasound": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Fatigue",
+                    "level": "Severe",
+                    "action": {
+                        "Refer to fatigure clinic": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "insomnia",
+                    "level": "High",
+                    "action": {
+                        "Refer to sleep clinic ": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "cough",
+                    "level": "High",
+                    "action": {
+                        "Refer to pulmonologist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "shortness of breath",
+                    "level": "High",
+                    "action": {
+                        "Order pulmonary function test": "",
+                        "Refer to pulmonologist": "completed"
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "mood disorder",
+                    "level": "High",
+                    "action": {
+                        "Refer to psychiatrist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "ringing in the ears",
+                    "level": "High",
+                    "action": {
+                        "Refer to ENT": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 10,
+                    "source": "",
+                    "name": "Lower extremity edema",
+                    "level": "High",
+                    "action": {
+                        "Suggest NT proBNP": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 11,
+                    "source": "",
+                    "name": "Bilateral pleural effusions",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "cough/GERD",
+                    "level": "High",
+                    "action": {
+                        "Prescribe omeprazole": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "Obesity",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "Suggest ultrasound",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "Refer to fatigure clinic",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "Refer to sleep clinic ",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "Order pulmonary function test",
+                    "msg": "normal",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Order x-ray ",
+                    "msg": "Bilateral pleural effusions",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Refer to psychiatrist",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Refer to ENT",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "Order exhaled oral nitric oxide",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 10,
+                    "action": "Suggest NT proBNP",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "Order Electrocardiogram",
+                    "msg": "Mild diastolic dysfunction",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 12,
+                    "action": "Prescribe omeprazole",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 13,
+                    "action": "Elevate head of the bead and lifestyle modification",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 14,
+                    "action": "order methacholine challenge",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 5,
+            "date": "2017-10-04 00:00:00",
+            "speciality": "pulmonologist",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Multinodular goiter",
+                    "level": "Low",
+                    "action": {
+                        "Suggest ultrasound": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Fatigue",
+                    "level": "Severe",
+                    "action": {
+                        "Refer to fatigure clinic": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "insomnia",
+                    "level": "High",
+                    "action": {
+                        "Refer to sleep clinic ": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "cough",
+                    "level": "High",
+                    "action": {
+                        "Refer to pulmonologist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "shortness of breath",
+                    "level": "High",
+                    "action": {
+                        "Order pulmonary function test": "",
+                        "Refer to pulmonologist": "completed"
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "mood disorder",
+                    "level": "High",
+                    "action": {
+                        "Refer to psychiatrist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "ringing in the ears",
+                    "level": "High",
+                    "action": {
+                        "Refer to ENT": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 10,
+                    "source": "",
+                    "name": "Lower extremity edema",
+                    "level": "High",
+                    "action": {
+                        "Suggest NT proBNP": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 11,
+                    "source": "",
+                    "name": "Bilateral pleural effusions",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "cough/GERD",
+                    "level": "High",
+                    "action": {
+                        "Prescribe omeprazole": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "Obesity",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "Suggest ultrasound",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "Refer to fatigure clinic",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "Refer to sleep clinic ",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "Order pulmonary function test",
+                    "msg": "normal",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Order x-ray ",
+                    "msg": "Bilateral pleural effusions",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Refer to psychiatrist",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Refer to ENT",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "Order exhaled oral nitric oxide",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "Suggest NT proBNP",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "Order Electrocardiogram",
+                    "msg": "Mild diastolic dysfunction",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 12,
+                    "action": "Prescribe omeprazole",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 13,
+                    "action": "Elevate head of the bead and lifestyle modification",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 14,
+                    "action": "order methacholine challenge",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 15,
+                    "action": "refer to cardiologist ",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 6,
+            "date": "2017-10-04 00:00:00",
+            "speciality": "Pyschiatrist",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Multinodular goiter",
+                    "level": "Low",
+                    "action": {
+                        "Suggest ultrasound": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Fatigue",
+                    "level": "Severe",
+                    "action": {
+                        "Refer to fatigure clinic": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "insomnia",
+                    "level": "High",
+                    "action": {
+                        "Refer to sleep clinic ": ""
+                    },
+                    "update": 2,
+                    "active": true
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "cough",
+                    "level": "High",
+                    "action": {
+                        "Refer to pulmonologist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "shortness of breath",
+                    "level": "High",
+                    "action": {
+                        "Order pulmonary function test": "",
+                        "Refer to pulmonologist": "completed"
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "mood disorder",
+                    "level": "High",
+                    "action": {
+                        "Refer to psychiatrist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "ringing in the ears",
+                    "level": "High",
+                    "action": {
+                        "Refer to ENT": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 10,
+                    "source": "",
+                    "name": "Lower extremity edema",
+                    "level": "High",
+                    "action": {
+                        "Suggest NT proBNP": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 11,
+                    "source": "",
+                    "name": "Bilateral pleural effusions",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "cough/GERD",
+                    "level": "High",
+                    "action": {
+                        "Prescribe omeprazole": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "Obesity",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "High",
+                    "action": {
+                        "order bupropion": ""
+                    },
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "Suggest ultrasound",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "Refer to fatigure clinic",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "Refer to sleep clinic ",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "Order pulmonary function test",
+                    "msg": "normal",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Order x-ray ",
+                    "msg": "Bilateral pleural effusions",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Refer to psychiatrist",
+                    "msg": "completed",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 8,
+                    "action": "Refer to ENT",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "Order exhaled oral nitric oxide",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "Suggest NT proBNP",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "Order Electrocardiogram",
+                    "msg": "Mild diastolic dysfunction",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 12,
+                    "action": "Prescribe omeprazole",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 13,
+                    "action": "Elevate head of the bead and lifestyle modification",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 14,
+                    "action": "order methacholine challenge",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 15,
+                    "action": "refer to cardiologist ",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 16,
+                    "action": "order bupropion",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 17,
+                    "action": "Refer to psychotherapist with catholic faith",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 7,
+            "date": "2017-11-04 00:00:00",
+            "speciality": "Endocrinologist",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Multinodular goiter",
+                    "level": "Low",
+                    "action": {
+                        "Suggest ultrasound": "order ultrasound in 6 months"
+                    },
+                    "update": 2,
+                    "active": true
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Fatigue",
+                    "level": "Severe",
+                    "action": {
+                        "Refer to fatigure clinic": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "insomnia",
+                    "level": "High",
+                    "action": {
+                        "Refer to sleep clinic ": "",
+                        "refer to sleep clinic ": ""
+                    },
+                    "update": 3,
+                    "active": true
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "cough",
+                    "level": "High",
+                    "action": {
+                        "Refer to pulmonologist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "shortness of breath",
+                    "level": "High",
+                    "action": {
+                        "Order pulmonary function test": "",
+                        "Refer to pulmonologist": "completed",
+                        "refer to cardiologist ": ""
+                    },
+                    "update": 2,
+                    "active": true
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "mood disorder",
+                    "level": "High",
+                    "action": {
+                        "Refer to psychiatrist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "ringing in the ears",
+                    "level": "High",
+                    "action": {
+                        "Refer to ENT": "",
+                        "refer to ENT": "Patient will wait to see ENT next year"
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 10,
+                    "source": "",
+                    "name": "Lower extremity edema",
+                    "level": "High",
+                    "action": {
+                        "Suggest NT proBNP": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 11,
+                    "source": "",
+                    "name": "Bilateral pleural effusions",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "cough/GERD",
+                    "level": "High",
+                    "action": {
+                        "Prescribe omeprazole": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "Obesity",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "High",
+                    "action": {
+                        "order bupropion": "not started taking bupropion yet"
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 15,
+                    "source": "",
+                    "name": "Hashimoto's thyroiditis",
+                    "level": "Trivial",
+                    "action": {
+                        "order TSH, free T4 and TPO per patient request": ""
+                    },
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "Suggest ultrasound",
+                    "msg": "order ultrasound in 6 months",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 2,
+                    "action": "Refer to fatigure clinic",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 19,
+                    "action": "refer to sleep clinic ",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 5,
+                    "action": "Order pulmonary function test",
+                    "msg": "normal",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Order x-ray ",
+                    "msg": "Bilateral pleural effusions",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Refer to ENT",
+                    "msg": "Patient will wait to see ENT next year",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 9,
+                    "action": "Order exhaled oral nitric oxide",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "Suggest NT proBNP",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "Order Electrocardiogram",
+                    "msg": "Mild diastolic dysfunction",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 12,
+                    "action": "Prescribe omeprazole",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 13,
+                    "action": "Elevate head of the bead and lifestyle modification",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 14,
+                    "action": "order methacholine challenge",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 19,
+                    "action": "refer to cardiologist ",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 16,
+                    "action": "order bupropion",
+                    "msg": "not started taking bupropion yet",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 17,
+                    "action": "Refer to psychotherapist with catholic faith",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 18,
+                    "action": "order throid function test",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 19,
+                    "action": "order TSH, free T4 and TPO per patient request",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 8,
+            "date": "2017-11-04 00:00:00",
+            "speciality": "cardiologist",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Multinodular goiter",
+                    "level": "Low",
+                    "action": {
+                        "Suggest ultrasound": "order ultrasound in 6 months"
+                    },
+                    "update": 3,
+                    "active": true
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Fatigue",
+                    "level": "Severe",
+                    "action": {
+                        "Refer to fatigure clinic": ""
+                    },
+                    "update": 2,
+                    "active": true
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "insomnia",
+                    "level": "High",
+                    "action": {
+                        "Refer to sleep clinic ": "",
+                        "refer to sleep clinic ": ""
+                    },
+                    "update": 3,
+                    "active": false
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "cough",
+                    "level": "High",
+                    "action": {
+                        "Refer to pulmonologist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "shortness of breath",
+                    "level": "High",
+                    "action": {
+                        "Order pulmonary function test": "",
+                        "Refer to pulmonologist": "completed",
+                        "refer to cardiologist ": "",
+                        "order CT ": ""
+                    },
+                    "update": 3,
+                    "active": true
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "mood disorder",
+                    "level": "High",
+                    "action": {
+                        "Refer to psychiatrist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "ringing in the ears",
+                    "level": "High",
+                    "action": {
+                        "Refer to ENT": "",
+                        "refer to ENT": "Patient will wait to see ENT next year"
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 10,
+                    "source": "",
+                    "name": "Lower extremity edema",
+                    "level": "Medium",
+                    "action": {
+                        "Suggest NT proBNP": ""
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 11,
+                    "source": "",
+                    "name": "Bilateral pleural effusions",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "cough/GERD",
+                    "level": "High",
+                    "action": {
+                        "Prescribe omeprazole": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "Obesity",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "High",
+                    "action": {
+                        "order bupropion": "not started taking bupropion yet"
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 15,
+                    "source": "",
+                    "name": "Hashimoto's thyroiditis",
+                    "level": "Trivial",
+                    "action": {
+                        "order TSH, free T4 and TPO per patient request": ""
+                    },
+                    "update": 0,
+                    "active": false
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "Suggest ultrasound",
+                    "msg": "order ultrasound in 6 months",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "Refer to fatigure clinic",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 19,
+                    "action": "refer to sleep clinic ",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "Order pulmonary function test",
+                    "msg": "normal",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Order x-ray ",
+                    "msg": "Bilateral pleural effusions",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Refer to ENT",
+                    "msg": "Patient will wait to see ENT next year",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "Order exhaled oral nitric oxide",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "Suggest NT proBNP",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "Order Electrocardiogram",
+                    "msg": "Mild diastolic dysfunction",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 12,
+                    "action": "Prescribe omeprazole",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 13,
+                    "action": "Elevate head of the bead and lifestyle modification",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 14,
+                    "action": "order methacholine challenge",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 20,
+                    "action": "refer to cardiologist ",
+                    "msg": "completed",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 16,
+                    "action": "order bupropion",
+                    "msg": "not started taking bupropion yet",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 17,
+                    "action": "Refer to psychotherapist with catholic faith",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 18,
+                    "action": "order throid function test",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 19,
+                    "action": "order TSH, free T4 and TPO per patient request",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 20,
+                    "action": "order CT ",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 9,
+            "date": "2017-11-08 00:00:00",
+            "speciality": "Lab result update",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "gallbladder removed",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "benigh multinodular goiter",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Hypertension",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Multinodular goiter",
+                    "level": "Low",
+                    "action": {
+                        "Suggest ultrasound": "order ultrasound in 6 months"
+                    },
+                    "update": 3,
+                    "active": false
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Fatigue",
+                    "level": "Severe",
+                    "action": {
+                        "Refer to fatigure clinic": ""
+                    },
+                    "update": 2,
+                    "active": false
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "insomnia",
+                    "level": "High",
+                    "action": {
+                        "Refer to sleep clinic ": "",
+                        "refer to sleep clinic ": ""
+                    },
+                    "update": 3,
+                    "active": false
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "cough",
+                    "level": "High",
+                    "action": {
+                        "Refer to pulmonologist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "shortness of breath",
+                    "level": "High",
+                    "action": {
+                        "Order pulmonary function test": "",
+                        "Refer to pulmonologist": "completed",
+                        "refer to cardiologist ": "",
+                        "order CT ": ""
+                    },
+                    "update": 3,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "mood disorder",
+                    "level": "High",
+                    "action": {
+                        "Refer to psychiatrist": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "ringing in the ears",
+                    "level": "High",
+                    "action": {
+                        "Refer to ENT": "",
+                        "refer to ENT": "Patient will wait to see ENT next year"
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 10,
+                    "source": "",
+                    "name": "Lower extremity edema",
+                    "level": "Medium",
+                    "action": {
+                        "Suggest NT proBNP": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 11,
+                    "source": "",
+                    "name": "Bilateral pleural effusions",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "cough/GERD",
+                    "level": "High",
+                    "action": {
+                        "Prescribe omeprazole": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "Obesity",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "High",
+                    "action": {
+                        "order bupropion": "not started taking bupropion yet"
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 15,
+                    "source": "",
+                    "name": "Hashimoto's thyroiditis",
+                    "level": "None",
+                    "action": {
+                        "order TSH, free T4 and TPO per patient request": ""
+                    },
+                    "update": 1,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "Suggest ultrasound",
+                    "msg": "order ultrasound in 6 months",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "Refer to fatigure clinic",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 19,
+                    "action": "refer to sleep clinic ",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "Order pulmonary function test",
+                    "msg": "normal",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Order x-ray ",
+                    "msg": "Bilateral pleural effusions",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Refer to ENT",
+                    "msg": "Patient will wait to see ENT next year",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "Order exhaled oral nitric oxide",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "Suggest NT proBNP",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "Order Electrocardiogram",
+                    "msg": "Mild diastolic dysfunction",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 12,
+                    "action": "Prescribe omeprazole",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 13,
+                    "action": "Elevate head of the bead and lifestyle modification",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 14,
+                    "action": "order methacholine challenge",
+                    "msg": "Excludes lungs as source of shortness of breath",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 16,
+                    "action": "order bupropion",
+                    "msg": "not started taking bupropion yet",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 17,
+                    "action": "Refer to psychotherapist with catholic faith",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 18,
+                    "action": "order throid function test",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 19,
+                    "action": "order TSH, free T4 and TPO per patient request",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 20,
+                    "action": "order CT ",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                }
+            ]
+        }
+    ],
+    "diagnosis": {
+        "0": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "gallbladder removed",
+                "level": "Medium",
+                "action": {
+                    "Suggest ultrasound": "order ultrasound in 6 months",
+                    "Refer to fatigure clinic": "",
+                    "Refer to sleep clinic ": "",
+                    "Refer to pulmonologist": "completed",
+                    "Order pulmonary function test": "",
+                    "Refer to psychiatrist": "",
+                    "Refer to ENT": "",
+                    "Suggest NT proBNP": "",
+                    "Prescribe omeprazole": "",
+                    "order bupropion": "not started taking bupropion yet",
+                    "order TSH, free T4 and TPO per patient request": "",
+                    "refer to ENT": "Patient will wait to see ENT next year",
+                    "refer to cardiologist ": "",
+                    "refer to sleep clinic ": "",
+                    "order CT ": ""
+                }
+            }
+        ],
+        "1": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "benigh multinodular goiter",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "2": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "Hypertension",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "3": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "Multinodular goiter",
+                "level": "Low",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 3,
+                "name": "Multinodular goiter",
+                "level": "Low",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 7,
+                "name": "Multinodular goiter",
+                "level": "Low",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 8,
+                "name": "Multinodular goiter",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "4": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "Fatigue",
+                "level": "Severe",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 3,
+                "name": "Fatigue",
+                "level": "Severe",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 8,
+                "name": "Fatigue",
+                "level": "Severe",
+                "action": {}
+            }
+        ],
+        "5": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "insomnia",
+                "level": "High",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 3,
+                "name": "insomnia",
+                "level": "High",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 6,
+                "name": "Insomnia",
+                "level": "High",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 7,
+                "name": "insomnia",
+                "level": "High",
+                "action": {}
+            }
+        ],
+        "6": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "cough",
+                "level": "High",
+                "action": {}
+            }
+        ],
+        "7": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "shortness of breath",
+                "level": "High",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 3,
+                "name": "shortness of breath",
+                "level": "High",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 7,
+                "name": "shortness of breath",
+                "level": "High",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 8,
+                "name": "shortness of breath",
+                "level": "High",
+                "action": {}
+            }
+        ],
+        "8": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "mood disorder",
+                "level": "High",
+                "action": {}
+            }
+        ],
+        "9": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "ringing in the ears",
+                "level": "High",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 7,
+                "name": "ringing in the ears",
+                "level": "High",
+                "action": {}
+            }
+        ],
+        "10": [
+            {
+                "source": "",
+                "vId": 3,
+                "name": "Lower extremity edema",
+                "level": "High",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 8,
+                "name": "Lower extremity edema",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "11": [
+            {
+                "source": "",
+                "vId": 3,
+                "name": "Bilateral pleural effusions",
+                "level": "Low",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 8,
+                "name": "Bilateral pleural effusions",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "12": [
+            {
+                "source": "",
+                "vId": 3,
+                "name": "cough/GERD",
+                "level": "High",
+                "action": {}
+            }
+        ],
+        "13": [
+            {
+                "source": "",
+                "vId": 3,
+                "name": "Obesity",
+                "level": "Medium",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 8,
+                "name": "Obesity",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "14": [
+            {
+                "source": "",
+                "vId": 6,
+                "name": "Depression",
+                "level": "High",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 7,
+                "name": "Depression",
+                "level": "High",
+                "action": {}
+            }
+        ],
+        "15": [
+            {
+                "source": "",
+                "vId": 7,
+                "name": "Hashimoto's thyroiditis",
+                "level": "Trivial",
+                "action": {}
+            }
+        ]
+    },
+    "action": [
+        {
+            "aId": 0,
+            "action": "Suggest ultrasound",
+            "visit": {
+                "1": {
+                    "msg": ""
+                },
+                "7": {
+                    "msg": "order ultrasound in 6 months"
+                }
+            }
+        },
+        {
+            "aId": 1,
+            "action": "Refer to fatigure clinic",
+            "visit": {
+                "1": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 20,
+            "action": "refer to sleep clinic ",
+            "visit": {
+                "7": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 3,
+            "action": "Refer to pulmonologist",
+            "visit": {
+                "1": {
+                    "msg": ""
+                },
+                "3": {
+                    "msg": "completed"
+                }
+            }
+        },
+        {
+            "aId": 4,
+            "action": "Order pulmonary function test",
+            "visit": {
+                "1": {
+                    "msg": ""
+                },
+                "2": {
+                    "msg": "normal"
+                }
+            }
+        },
+        {
+            "aId": 5,
+            "action": "Order x-ray ",
+            "visit": {
+                "1": {
+                    "msg": ""
+                },
+                "2": {
+                    "msg": "Bilateral pleural effusions"
+                }
+            }
+        },
+        {
+            "aId": 6,
+            "action": "Refer to psychiatrist",
+            "visit": {
+                "1": {
+                    "msg": ""
+                },
+                "6": {
+                    "msg": "completed"
+                }
+            }
+        },
+        {
+            "aId": 7,
+            "action": "Refer to ENT",
+            "visit": {
+                "1": {
+                    "msg": ""
+                },
+                "7": {
+                    "msg": "Patient will wait to see ENT next year"
+                }
+            }
+        },
+        {
+            "aId": 8,
+            "action": "Order exhaled oral nitric oxide",
+            "visit": {
+                "3": {
+                    "msg": ""
+                },
+                "4": {
+                    "msg": "Excludes lungs as source of shortness of breath"
+                }
+            }
+        },
+        {
+            "aId": 9,
+            "action": "Suggest NT proBNP",
+            "visit": {
+                "3": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 10,
+            "action": "Order Electrocardiogram",
+            "visit": {
+                "3": {
+                    "msg": ""
+                },
+                "4": {
+                    "msg": "Mild diastolic dysfunction"
+                }
+            }
+        },
+        {
+            "aId": 11,
+            "action": "Prescribe omeprazole",
+            "visit": {
+                "3": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 12,
+            "action": "Elevate head of the bead and lifestyle modification",
+            "visit": {
+                "3": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 13,
+            "action": "order methacholine challenge",
+            "visit": {
+                "4": {
+                    "msg": "Excludes lungs as source of shortness of breath"
+                }
+            }
+        },
+        {
+            "aId": 22,
+            "action": "refer to cardiologist ",
+            "visit": {
+                "8": {
+                    "msg": "completed"
+                }
+            }
+        },
+        {
+            "aId": 15,
+            "action": "order bupropion",
+            "visit": {
+                "6": {
+                    "msg": ""
+                },
+                "7": {
+                    "msg": "not started taking bupropion yet"
+                }
+            }
+        },
+        {
+            "aId": 16,
+            "action": "Refer to psychotherapist with catholic faith",
+            "visit": {
+                "6": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 17,
+            "action": "order throid function test",
+            "visit": {
+                "7": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 18,
+            "action": "order TSH, free T4 and TPO per patient request",
+            "visit": {
+                "7": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 21,
+            "action": "order CT ",
+            "visit": {
+                "8": {
+                    "msg": ""
+                }
+            }
+        }
+    ]
+}

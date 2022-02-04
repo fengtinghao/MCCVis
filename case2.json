@@ -1,0 +1,3096 @@
+{
+    "visit": [
+        {
+            "vId": 0,
+            "date": "Prior history",
+            "speciality": "Before Mayo",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "Migranine headache",
+                    "level": "Severe",
+                    "action": {
+                        "oxycodone for acute headache": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "Anxiety",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Attention-deficit disorder",
+                    "level": "Medium",
+                    "action": {
+                        "taking liothyronine": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Low back pain",
+                    "level": "Medium",
+                    "action": {
+                        "x-ray of lumbar spine ordered": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 5,
+                    "source": "",
+                    "name": "Perimenopause",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 6,
+                    "source": "",
+                    "name": "Menorrhagia",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "Skin lesion",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "oxycodone for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 2,
+                    "action": "acetaminophen as second treatment for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 3,
+                    "action": "neuropsychometric test recommended",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 4,
+                    "action": "taking liothyronine",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 5,
+                    "action": "x-ray of lumbar spine ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 1,
+            "date": "2018-03-27 00:00:00",
+            "speciality": "Internal medicine",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "Migranine headache",
+                    "level": "Severe",
+                    "action": {
+                        "oxycodone for acute headache": ""
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "Anxiety",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Attention-deficit disorder",
+                    "level": "Medium",
+                    "action": {
+                        "taking liothyronine": "",
+                        "liothyronine adjustment with Dr. X": ""
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Low back pain",
+                    "level": "Medium",
+                    "action": {
+                        "x-ray of lumbar spine ordered": "",
+                        "Spine Center evaluation": ""
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "Skin lesion",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "Cognitive concern",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "Word finding difficulty",
+                    "level": "Medium",
+                    "action": {
+                        "neuropsychometric test recommended": "neuropsychometric test followup"
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 10,
+                    "source": 5,
+                    "name": "Possible early perimenopause",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 11,
+                    "source": 6,
+                    "name": "Menstrual irregularity",
+                    "level": "Medium",
+                    "action": {
+                        "Schedule gyn review": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "History of Nevus with moderate atypia",
+                    "level": "Low",
+                    "action": {
+                        "Dermatology review pending": ""
+                    },
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "oxycodone for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "acetaminophen as second treatment for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "neuropsychometric test recommended",
+                    "msg": "neuropsychometric test followup",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 4,
+                    "action": "taking liothyronine",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "x-ray of lumbar spine ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Spine Center evaluation",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 7,
+                    "action": "Schedule gyn review",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 8,
+                    "action": "Dermatology review pending",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 9,
+                    "action": "liothyronine adjustment with Dr. X",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 2,
+            "date": "2018-03-28 00:00:00",
+            "speciality": "Podriatry",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "Migranine headache",
+                    "level": "Severe",
+                    "action": {
+                        "oxycodone for acute headache": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "Anxiety",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Attention-deficit disorder",
+                    "level": "Medium",
+                    "action": {
+                        "taking liothyronine": "",
+                        "liothyronine adjustment with Dr. X": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Low back pain",
+                    "level": "Medium",
+                    "action": {
+                        "x-ray of lumbar spine ordered": "",
+                        "Spine Center evaluation": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "Skin lesion",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "Cognitive concern",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "Word finding difficulty",
+                    "level": "Medium",
+                    "action": {
+                        "neuropsychometric test recommended": "neuropsychometric test followup"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 10,
+                    "source": 5,
+                    "name": "Possible early perimenopause",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 11,
+                    "source": 6,
+                    "name": "Menstrual irregularity",
+                    "level": "Medium",
+                    "action": {
+                        "Schedule gyn review": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "History of Nevus with moderate atypia",
+                    "level": "Low",
+                    "action": {
+                        "Dermatology review pending": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "flatfoot bilaterally",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "left 4th toe pain",
+                    "level": "Low",
+                    "action": {
+                        "x-ray of toe ordered": "healed fracture of the left 4th toe"
+                    },
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "oxycodone for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "acetaminophen as second treatment for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "neuropsychometric test recommended",
+                    "msg": "neuropsychometric test followup",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 4,
+                    "action": "taking liothyronine",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "x-ray of lumbar spine ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Spine Center evaluation",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Schedule gyn review",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Dermatology review pending",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "liothyronine adjustment with Dr. X",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "x-ray of toe ordered",
+                    "msg": "healed fracture of the left 4th toe",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 3,
+            "date": "2018-03-28 00:00:00",
+            "speciality": "Women health",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "Migranine headache",
+                    "level": "Severe",
+                    "action": {
+                        "oxycodone for acute headache": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "Anxiety",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Attention-deficit disorder",
+                    "level": "Medium",
+                    "action": {
+                        "taking liothyronine": "",
+                        "liothyronine adjustment with Dr. X": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Low back pain",
+                    "level": "Medium",
+                    "action": {
+                        "x-ray of lumbar spine ordered": "",
+                        "Spine Center evaluation": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "Skin lesion",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "Cognitive concern",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "Word finding difficulty",
+                    "level": "Medium",
+                    "action": {
+                        "neuropsychometric test recommended": "neuropsychometric test followup"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "History of Nevus with moderate atypia",
+                    "level": "Low",
+                    "action": {
+                        "Dermatology review pending": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "flatfoot bilaterally",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "left 4th toe pain",
+                    "level": "Low",
+                    "action": {
+                        "x-ray of toe ordered": "healed fracture of the left 4th toe"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 15,
+                    "source": 10,
+                    "name": "Unlikely perimenopause",
+                    "level": "Trivial",
+                    "action": {
+                        "lab test ordered": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 16,
+                    "source": 11,
+                    "name": "Abnormal uterine bleeding",
+                    "level": "Medium",
+                    "action": {
+                        "Schedule gyn review": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 17,
+                    "source": "",
+                    "name": "Decreased libido",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 18,
+                    "source": "",
+                    "name": "Exogenous hyperthyroidism",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "oxycodone for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "acetaminophen as second treatment for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "neuropsychometric test recommended",
+                    "msg": "neuropsychometric test followup",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 4,
+                    "action": "taking liothyronine",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "x-ray of lumbar spine ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Spine Center evaluation",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Schedule gyn review",
+                    "msg": "",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 8,
+                    "action": "Dermatology review pending",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "liothyronine adjustment with Dr. X",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "x-ray of toe ordered",
+                    "msg": "healed fracture of the left 4th toe",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "lab test ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 4,
+            "date": "2018-04-16 00:00:00",
+            "speciality": "Lab result update",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "Migranine headache",
+                    "level": "Severe",
+                    "action": {
+                        "oxycodone for acute headache": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "Anxiety",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Attention-deficit disorder",
+                    "level": "Medium",
+                    "action": {
+                        "taking liothyronine": "",
+                        "liothyronine adjustment with Dr. X": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 4,
+                    "source": "",
+                    "name": "Low back pain",
+                    "level": "Medium",
+                    "action": {
+                        "x-ray of lumbar spine ordered": "",
+                        "Spine Center evaluation": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "Skin lesion",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "Cognitive concern",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "Word finding difficulty",
+                    "level": "Medium",
+                    "action": {
+                        "neuropsychometric test recommended": "neuropsychometric test followup"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "History of Nevus with moderate atypia",
+                    "level": "Low",
+                    "action": {
+                        "Dermatology review pending": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "flatfoot bilaterally",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "left 4th toe pain",
+                    "level": "Low",
+                    "action": {
+                        "x-ray of toe ordered": "healed fracture of the left 4th toe"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 15,
+                    "source": 10,
+                    "name": "Unlikely perimenopause",
+                    "level": "None",
+                    "action": {
+                        "lab test ordered": ""
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 16,
+                    "source": 11,
+                    "name": "Abnormal uterine bleeding",
+                    "level": "Medium",
+                    "action": {
+                        "Schedule gyn review": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 17,
+                    "source": "",
+                    "name": "Decreased libido",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 18,
+                    "source": "",
+                    "name": "Exogenous hyperthyroidism",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "oxycodone for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "acetaminophen as second treatment for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "neuropsychometric test recommended",
+                    "msg": "neuropsychometric test followup",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 4,
+                    "action": "taking liothyronine",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "x-ray of lumbar spine ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 6,
+                    "action": "Spine Center evaluation",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Schedule gyn review",
+                    "msg": "",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Dermatology review pending",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "liothyronine adjustment with Dr. X",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "x-ray of toe ordered",
+                    "msg": "healed fracture of the left 4th toe",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "lab test ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                }
+            ]
+        },
+        {
+            "vId": 5,
+            "date": "2018-04-27 00:00:00",
+            "speciality": "Spine Center",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "Migranine headache",
+                    "level": "Severe",
+                    "action": {
+                        "oxycodone for acute headache": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "Anxiety",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Attention-deficit disorder",
+                    "level": "Medium",
+                    "action": {
+                        "taking liothyronine": "",
+                        "liothyronine adjustment with Dr. X": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 7,
+                    "source": "",
+                    "name": "Skin lesion",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "Cognitive concern",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "Word finding difficulty",
+                    "level": "Medium",
+                    "action": {
+                        "neuropsychometric test recommended": "neuropsychometric test followup"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 12,
+                    "source": "",
+                    "name": "History of Nevus with moderate atypia",
+                    "level": "Low",
+                    "action": {
+                        "Dermatology review pending": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "flatfoot bilaterally",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "left 4th toe pain",
+                    "level": "Low",
+                    "action": {
+                        "x-ray of toe ordered": "healed fracture of the left 4th toe"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 16,
+                    "source": 11,
+                    "name": "Abnormal uterine bleeding",
+                    "level": "Medium",
+                    "action": {
+                        "Schedule gyn review": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 17,
+                    "source": "",
+                    "name": "Decreased libido",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 18,
+                    "source": "",
+                    "name": "Exogenous hyperthyroidism",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 19,
+                    "source": 4,
+                    "name": "Bilateral SI joint pain / dysfunction",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 20,
+                    "source": 4,
+                    "name": "Chronic mychanical / myofascial low back pain",
+                    "level": "Medium",
+                    "action": {
+                        "Physical therapy prescription": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 21,
+                    "source": 4,
+                    "name": "Mild spondylotic changes lumbar spine",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 22,
+                    "source": 4,
+                    "name": "Nocturnal and morning low back pain with inflammatory chacteritistics, query AS",
+                    "level": "Medium",
+                    "action": {
+                        "HLA-B27 testing ordered": ""
+                    },
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "oxycodone for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "acetaminophen as second treatment for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "neuropsychometric test recommended",
+                    "msg": "neuropsychometric test followup",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 4,
+                    "action": "taking liothyronine",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 5,
+                    "action": "x-ray of lumbar spine ordered",
+                    "msg": "completed",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 6,
+                    "action": "Spine Center evaluation",
+                    "msg": "completed",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 7,
+                    "action": "Schedule gyn review",
+                    "msg": "",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Dermatology review pending",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "liothyronine adjustment with Dr. X",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "x-ray of toe ordered",
+                    "msg": "healed fracture of the left 4th toe",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "lab test ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 12,
+                    "action": "Physical therapy prescription",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 13,
+                    "action": "Alternative therapy such as acupuncture, chiropractic, massage, yoga, Tai Chi and mindful mediation are optional",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 14,
+                    "action": "HLA-B27 testing ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 6,
+            "date": "2018-04-27 00:00:00",
+            "speciality": "Dermatology",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "Migranine headache",
+                    "level": "Severe",
+                    "action": {
+                        "oxycodone for acute headache": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "Anxiety",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Attention-deficit disorder",
+                    "level": "Medium",
+                    "action": {
+                        "taking liothyronine": "",
+                        "liothyronine adjustment with Dr. X": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "Cognitive concern",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "Word finding difficulty",
+                    "level": "Medium",
+                    "action": {
+                        "neuropsychometric test recommended": "neuropsychometric test followup"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "flatfoot bilaterally",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "left 4th toe pain",
+                    "level": "Low",
+                    "action": {
+                        "x-ray of toe ordered": "healed fracture of the left 4th toe"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 16,
+                    "source": 11,
+                    "name": "Abnormal uterine bleeding",
+                    "level": "Medium",
+                    "action": {
+                        "Schedule gyn review": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 17,
+                    "source": "",
+                    "name": "Decreased libido",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 18,
+                    "source": "",
+                    "name": "Exogenous hyperthyroidism",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 19,
+                    "source": 4,
+                    "name": "Bilateral SI joint pain / dysfunction",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 20,
+                    "source": 4,
+                    "name": "Chronic mychanical / myofascial low back pain",
+                    "level": "Medium",
+                    "action": {
+                        "Physical therapy prescription": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 21,
+                    "source": 4,
+                    "name": "Mild spondylotic changes lumbar spine",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 22,
+                    "source": 4,
+                    "name": "Nocturnal and morning low back pain with inflammatory chacteritistics, query AS",
+                    "level": "Medium",
+                    "action": {
+                        "HLA-B27 testing ordered": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 23,
+                    "source": "",
+                    "name": "Dermatoheliosis",
+                    "level": "Medium",
+                    "action": {
+                        "full skin cancer screening recommended each year": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 24,
+                    "source": "",
+                    "name": "Polymorphous ligh eruption",
+                    "level": "Medium",
+                    "action": {
+                        "diligent photoprotection with physical blocking agents recommended": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 25,
+                    "source": 12,
+                    "name": "Multiple nevi",
+                    "level": "Low",
+                    "action": {
+                        "continued sun protection": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 26,
+                    "source": "",
+                    "name": "Seborrheic dermatitis",
+                    "level": "Low",
+                    "action": {
+                        "Ketoconazole shampoo recommended": ""
+                    },
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "dId": 27,
+                    "source": 7,
+                    "name": "Angiolipoma",
+                    "level": "Trivial",
+                    "action": {
+                        "continued observation": ""
+                    },
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "oxycodone for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "acetaminophen as second treatment for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "neuropsychometric test recommended",
+                    "msg": "neuropsychometric test followup",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 4,
+                    "action": "taking liothyronine",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Schedule gyn review",
+                    "msg": "",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 8,
+                    "action": "Dermatology review pending",
+                    "msg": "completed",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 9,
+                    "action": "liothyronine adjustment with Dr. X",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "x-ray of toe ordered",
+                    "msg": "healed fracture of the left 4th toe",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "lab test ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 12,
+                    "action": "Physical therapy prescription",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 13,
+                    "action": "Alternative therapy such as acupuncture, chiropractic, massage, yoga, Tai Chi and mindful mediation are optional",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 14,
+                    "action": "HLA-B27 testing ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 15,
+                    "action": "full skin cancer screening recommended each year",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 16,
+                    "action": "diligent photoprotection with physical blocking agents recommended",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 17,
+                    "action": "high-dose Zyrtec, twice daily",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 18,
+                    "action": "continued sun protection",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 19,
+                    "action": "continued self-skin examination and observation",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 20,
+                    "action": "Ketoconazole shampoo recommended",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 21,
+                    "action": "continued observation",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 7,
+            "date": "2018-04-27 00:00:00",
+            "speciality": "Internal medicine",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "Migranine headache",
+                    "level": "Severe",
+                    "action": {
+                        "oxycodone for acute headache": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "Anxiety",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "Low",
+                    "action": {},
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Attention-deficit disorder",
+                    "level": "Medium",
+                    "action": {
+                        "taking liothyronine": "",
+                        "liothyronine adjustment with Dr. X": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "Cognitive concern",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "Word finding difficulty",
+                    "level": "Medium",
+                    "action": {
+                        "neuropsychometric test recommended": "neuropsychometric test followup"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "flatfoot bilaterally",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "left 4th toe pain",
+                    "level": "Low",
+                    "action": {
+                        "x-ray of toe ordered": "healed fracture of the left 4th toe"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 16,
+                    "source": 11,
+                    "name": "Abnormal uterine bleeding",
+                    "level": "Medium",
+                    "action": {
+                        "Schedule gyn review": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 17,
+                    "source": "",
+                    "name": "Decreased libido",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 18,
+                    "source": "",
+                    "name": "Exogenous hyperthyroidism",
+                    "level": "Low",
+                    "action": {
+                        "order T3 and free T3": ""
+                    },
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "dId": 19,
+                    "source": 4,
+                    "name": "Bilateral SI joint pain / dysfunction",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 20,
+                    "source": 4,
+                    "name": "Chronic mychanical / myofascial low back pain",
+                    "level": "Medium",
+                    "action": {
+                        "Physical therapy prescription": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 21,
+                    "source": 4,
+                    "name": "Mild spondylotic changes lumbar spine",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 22,
+                    "source": 4,
+                    "name": "Nocturnal and morning low back pain with inflammatory chacteritistics, query AS",
+                    "level": "Medium",
+                    "action": {
+                        "HLA-B27 testing ordered": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 23,
+                    "source": "",
+                    "name": "Dermatoheliosis",
+                    "level": "Medium",
+                    "action": {
+                        "full skin cancer screening recommended each year": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 24,
+                    "source": "",
+                    "name": "Polymorphous ligh eruption",
+                    "level": "Medium",
+                    "action": {
+                        "diligent photoprotection with physical blocking agents recommended": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 25,
+                    "source": 12,
+                    "name": "Multiple nevi",
+                    "level": "Low",
+                    "action": {
+                        "continued sun protection": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 26,
+                    "source": "",
+                    "name": "Seborrheic dermatitis",
+                    "level": "Low",
+                    "action": {
+                        "Ketoconazole shampoo recommended": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 27,
+                    "source": 7,
+                    "name": "Angiolipoma",
+                    "level": "Trivial",
+                    "action": {
+                        "continued observation": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 28,
+                    "source": "",
+                    "name": "Osteopenia",
+                    "level": "Low",
+                    "action": {
+                        "draw vitamin D level": ""
+                    },
+                    "update": 0,
+                    "active": true
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "oxycodone for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "acetaminophen as second treatment for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "neuropsychometric test recommended",
+                    "msg": "neuropsychometric test followup",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 4,
+                    "action": "taking liothyronine",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Schedule gyn review",
+                    "msg": "",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "liothyronine adjustment with Dr. X",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "x-ray of toe ordered",
+                    "msg": "healed fracture of the left 4th toe",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "lab test ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 12,
+                    "action": "Physical therapy prescription",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 13,
+                    "action": "Alternative therapy such as acupuncture, chiropractic, massage, yoga, Tai Chi and mindful mediation are optional",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 14,
+                    "action": "HLA-B27 testing ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 15,
+                    "action": "full skin cancer screening recommended each year",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 16,
+                    "action": "diligent photoprotection with physical blocking agents recommended",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 17,
+                    "action": "high-dose Zyrtec, twice daily",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 18,
+                    "action": "continued sun protection",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 19,
+                    "action": "continued self-skin examination and observation",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 20,
+                    "action": "Ketoconazole shampoo recommended",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 21,
+                    "action": "continued observation",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 22,
+                    "action": "neuropsychometric test followup",
+                    "msg": "mild inefficiency of attention; occassional mild impulsivity; high depression",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 23,
+                    "action": "neurology consultation scheduled in June",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 24,
+                    "action": "order T3 and free T3",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 25,
+                    "action": "Endocrinology consult pending",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 26,
+                    "action": "draw vitamin D level",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 27,
+                    "action": "maintain daily elemental calcium intake of 1200mg",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 28,
+                    "action": "Participate in daily weightbearing exercise such as walking",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                },
+                {
+                    "aId": 29,
+                    "action": "Recheck bone density in 2 years",
+                    "msg": "",
+                    "update": 0,
+                    "active": true
+                }
+            ]
+        },
+        {
+            "vId": 8,
+            "date": "2018-04-30 00:00:00",
+            "speciality": "Internal medicine",
+            "Diagnosis": [
+                {
+                    "dId": 0,
+                    "source": "",
+                    "name": "Migranine headache",
+                    "level": "Severe",
+                    "action": {
+                        "oxycodone for acute headache": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 1,
+                    "source": "",
+                    "name": "Anxiety",
+                    "level": "Low",
+                    "action": {
+                        "follow up with local psychiatrist": ""
+                    },
+                    "update": 2,
+                    "active": true
+                },
+                {
+                    "dId": 2,
+                    "source": "",
+                    "name": "Depression",
+                    "level": "Low",
+                    "action": {
+                        "follow up with local psychiatrist": ""
+                    },
+                    "update": 2,
+                    "active": true
+                },
+                {
+                    "dId": 3,
+                    "source": "",
+                    "name": "Attention-deficit disorder",
+                    "level": "Medium",
+                    "action": {
+                        "taking liothyronine": "",
+                        "liothyronine adjustment with Dr. X": "",
+                        "follow up with local psychiatrist": ""
+                    },
+                    "update": 2,
+                    "active": true
+                },
+                {
+                    "dId": 8,
+                    "source": "",
+                    "name": "Cognitive concern",
+                    "level": "Low",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 9,
+                    "source": "",
+                    "name": "Word finding difficulty",
+                    "level": "Medium",
+                    "action": {
+                        "neuropsychometric test recommended": "neuropsychometric test followup"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 13,
+                    "source": "",
+                    "name": "flatfoot bilaterally",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 14,
+                    "source": "",
+                    "name": "left 4th toe pain",
+                    "level": "Low",
+                    "action": {
+                        "x-ray of toe ordered": "healed fracture of the left 4th toe"
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 16,
+                    "source": 11,
+                    "name": "Abnormal uterine bleeding",
+                    "level": "Medium",
+                    "action": {
+                        "Schedule gyn review": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 17,
+                    "source": "",
+                    "name": "Decreased libido",
+                    "level": "Trivial",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 18,
+                    "source": "",
+                    "name": "Exogenous hyperthyroidism",
+                    "level": "Low",
+                    "action": {
+                        "order T3 and free T3": ""
+                    },
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "dId": 19,
+                    "source": 4,
+                    "name": "Bilateral SI joint pain / dysfunction",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 20,
+                    "source": 4,
+                    "name": "Chronic mychanical / myofascial low back pain",
+                    "level": "Medium",
+                    "action": {
+                        "Physical therapy prescription": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 21,
+                    "source": 4,
+                    "name": "Mild spondylotic changes lumbar spine",
+                    "level": "Medium",
+                    "action": {},
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 22,
+                    "source": 4,
+                    "name": "Nocturnal and morning low back pain with inflammatory chacteritistics, query AS",
+                    "level": "Medium",
+                    "action": {
+                        "HLA-B27 testing ordered": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 23,
+                    "source": "",
+                    "name": "Dermatoheliosis",
+                    "level": "Medium",
+                    "action": {
+                        "full skin cancer screening recommended each year": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 24,
+                    "source": "",
+                    "name": "Polymorphous ligh eruption",
+                    "level": "Medium",
+                    "action": {
+                        "diligent photoprotection with physical blocking agents recommended": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 25,
+                    "source": 12,
+                    "name": "Multiple nevi",
+                    "level": "Low",
+                    "action": {
+                        "continued sun protection": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 26,
+                    "source": "",
+                    "name": "Seborrheic dermatitis",
+                    "level": "Low",
+                    "action": {
+                        "Ketoconazole shampoo recommended": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 27,
+                    "source": 7,
+                    "name": "Angiolipoma",
+                    "level": "Trivial",
+                    "action": {
+                        "continued observation": ""
+                    },
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "dId": 28,
+                    "source": "",
+                    "name": "Osteopenia",
+                    "level": "Low",
+                    "action": {
+                        "draw vitamin D level": ""
+                    },
+                    "update": 0,
+                    "active": false
+                }
+            ],
+            "Actions": [
+                {
+                    "aId": 1,
+                    "action": "oxycodone for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 2,
+                    "action": "acetaminophen as second treatment for acute headache",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 3,
+                    "action": "neuropsychometric test recommended",
+                    "msg": "neuropsychometric test followup",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 4,
+                    "action": "taking liothyronine",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 7,
+                    "action": "Schedule gyn review",
+                    "msg": "",
+                    "update": 1,
+                    "active": false
+                },
+                {
+                    "aId": 9,
+                    "action": "liothyronine adjustment with Dr. X",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 10,
+                    "action": "x-ray of toe ordered",
+                    "msg": "healed fracture of the left 4th toe",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 11,
+                    "action": "lab test ordered",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 12,
+                    "action": "Physical therapy prescription",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 13,
+                    "action": "Alternative therapy such as acupuncture, chiropractic, massage, yoga, Tai Chi and mindful mediation are optional",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 14,
+                    "action": "HLA-B27 testing ordered",
+                    "msg": "HLC-B27 is negative",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 15,
+                    "action": "full skin cancer screening recommended each year",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 16,
+                    "action": "diligent photoprotection with physical blocking agents recommended",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 17,
+                    "action": "high-dose Zyrtec, twice daily",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 18,
+                    "action": "continued sun protection",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 19,
+                    "action": "continued self-skin examination and observation",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 20,
+                    "action": "Ketoconazole shampoo recommended",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 21,
+                    "action": "continued observation",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 22,
+                    "action": "neuropsychometric test followup",
+                    "msg": "mild inefficiency of attention; occassional mild impulsivity; high depression",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 23,
+                    "action": "neurology consultation scheduled in June",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 24,
+                    "action": "order T3 and free T3",
+                    "msg": "free T3 is elevated",
+                    "update": 1,
+                    "active": true
+                },
+                {
+                    "aId": 25,
+                    "action": "Endocrinology consult pending",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 26,
+                    "action": "draw vitamin D level",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 27,
+                    "action": "maintain daily elemental calcium intake of 1200mg",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 28,
+                    "action": "Participate in daily weightbearing exercise such as walking",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 29,
+                    "action": "Recheck bone density in 2 years",
+                    "msg": "",
+                    "update": 0,
+                    "active": false
+                },
+                {
+                    "aId": 30,
+                    "action": "follow up with local psychiatrist",
+                    "msg": "",
+                    "update": 2,
+                    "active": true
+                }
+            ]
+        }
+    ],
+    "diagnosis": {
+        "0": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "Migranine headache",
+                "level": "Severe",
+                "action": {
+                    "oxycodone for acute headache": "",
+                    "taking liothyronine": "",
+                    "x-ray of lumbar spine ordered": ""
+                }
+            },
+            {
+                "source": "",
+                "vId": 1,
+                "name": "Migranine headache",
+                "level": "Severe",
+                "action": {
+                    "neuropsychometric test recommended": "neuropsychometric test followup",
+                    "Spine Center evaluation": "",
+                    "Schedule gyn review": "",
+                    "Dermatology review pending": "",
+                    "liothyronine adjustment with Dr. X": "",
+                    "x-ray of toe ordered": "healed fracture of the left 4th toe",
+                    "lab test ordered": "",
+                    "Physical therapy prescription": "",
+                    "HLA-B27 testing ordered": "",
+                    "full skin cancer screening recommended each year": "",
+                    "diligent photoprotection with physical blocking agents recommended": "",
+                    "continued sun protection": "",
+                    "Ketoconazole shampoo recommended": "",
+                    "continued observation": "",
+                    "order T3 and free T3": "",
+                    "draw vitamin D level": "",
+                    "follow up with local psychiatrist": ""
+                }
+            }
+        ],
+        "1": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "Anxiety",
+                "level": "Low",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 1,
+                "name": "Anxiety",
+                "level": "Low",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 8,
+                "name": "Anxiety",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "2": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "Depression",
+                "level": "Low",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 1,
+                "name": "Depression",
+                "level": "Low",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 8,
+                "name": "Depression",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "3": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "Attention-deficit disorder",
+                "level": "Medium",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 1,
+                "name": "Attention-deficit disorder",
+                "level": "Medium",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 8,
+                "name": "Attention-deficit disorder",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "4": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "Low back pain",
+                "level": "Medium",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 1,
+                "name": "Low back pain",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "5": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "Perimenopause",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "6": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "Menorrhagia",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "7": [
+            {
+                "source": "",
+                "vId": 0,
+                "name": "Skin lesion",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "8": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "Cognitive concern",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "9": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "Word finding difficulty",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "10": [
+            {
+                "source": 5,
+                "vId": 1,
+                "name": "Possible early perimenopause",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "11": [
+            {
+                "source": 6,
+                "vId": 1,
+                "name": "Menstrual irregularity",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "12": [
+            {
+                "source": "",
+                "vId": 1,
+                "name": "History of Nevus with moderate atypia",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "13": [
+            {
+                "source": "",
+                "vId": 2,
+                "name": "flatfoot bilaterally",
+                "level": "Trivial",
+                "action": {}
+            }
+        ],
+        "14": [
+            {
+                "source": "",
+                "vId": 2,
+                "name": "left 4th toe pain",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "15": [
+            {
+                "source": 10,
+                "vId": 3,
+                "name": "Unlikely perimenopause",
+                "level": "Trivial",
+                "action": {}
+            }
+        ],
+        "16": [
+            {
+                "source": 11,
+                "vId": 3,
+                "name": "Abnormal uterine bleeding",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "17": [
+            {
+                "source": "",
+                "vId": 3,
+                "name": "Decreased libido",
+                "level": "Trivial",
+                "action": {}
+            }
+        ],
+        "18": [
+            {
+                "source": "",
+                "vId": 3,
+                "name": "Exogenous hyperthyroidism",
+                "level": "Trivial",
+                "action": {}
+            },
+            {
+                "source": "",
+                "vId": 7,
+                "name": "Exogenous hyperthyroidism",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "19": [
+            {
+                "source": 4,
+                "vId": 5,
+                "name": "Bilateral SI joint pain / dysfunction",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "20": [
+            {
+                "source": 4,
+                "vId": 5,
+                "name": "Chronic mychanical / myofascial low back pain",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "21": [
+            {
+                "source": 4,
+                "vId": 5,
+                "name": "Mild spondylotic changes lumbar spine",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "22": [
+            {
+                "source": 4,
+                "vId": 5,
+                "name": "Nocturnal and morning low back pain with inflammatory chacteritistics, query AS",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "23": [
+            {
+                "source": "",
+                "vId": 6,
+                "name": "Dermatoheliosis",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "24": [
+            {
+                "source": "",
+                "vId": 6,
+                "name": "Polymorphous ligh eruption",
+                "level": "Medium",
+                "action": {}
+            }
+        ],
+        "25": [
+            {
+                "source": 12,
+                "vId": 6,
+                "name": "Multiple nevi",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "26": [
+            {
+                "source": "",
+                "vId": 6,
+                "name": "Seborrheic dermatitis",
+                "level": "Low",
+                "action": {}
+            }
+        ],
+        "27": [
+            {
+                "source": 7,
+                "vId": 6,
+                "name": "Angiolipoma",
+                "level": "Trivial",
+                "action": {}
+            }
+        ],
+        "28": [
+            {
+                "source": "",
+                "vId": 7,
+                "name": "Osteopenia",
+                "level": "Low",
+                "action": {}
+            }
+        ]
+    },
+    "action": [
+        {
+            "aId": 0,
+            "action": "oxycodone for acute headache",
+            "visit": {
+                "0": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 1,
+            "action": "acetaminophen as second treatment for acute headache",
+            "visit": {
+                "0": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 2,
+            "action": "neuropsychometric test recommended",
+            "visit": {
+                "0": {
+                    "msg": ""
+                },
+                "1": {
+                    "msg": "neuropsychometric test followup"
+                }
+            }
+        },
+        {
+            "aId": 3,
+            "action": "taking liothyronine",
+            "visit": {
+                "0": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 4,
+            "action": "x-ray of lumbar spine ordered",
+            "visit": {
+                "0": {
+                    "msg": ""
+                },
+                "5": {
+                    "msg": "completed"
+                }
+            }
+        },
+        {
+            "aId": 5,
+            "action": "Spine Center evaluation",
+            "visit": {
+                "1": {
+                    "msg": ""
+                },
+                "5": {
+                    "msg": "completed"
+                }
+            }
+        },
+        {
+            "aId": 6,
+            "action": "Schedule gyn review",
+            "visit": {
+                "1": {
+                    "msg": ""
+                },
+                "3": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 7,
+            "action": "Dermatology review pending",
+            "visit": {
+                "1": {
+                    "msg": ""
+                },
+                "6": {
+                    "msg": "completed"
+                }
+            }
+        },
+        {
+            "aId": 8,
+            "action": "liothyronine adjustment with Dr. X",
+            "visit": {
+                "1": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 9,
+            "action": "x-ray of toe ordered",
+            "visit": {
+                "2": {
+                    "msg": "healed fracture of the left 4th toe"
+                }
+            }
+        },
+        {
+            "aId": 10,
+            "action": "lab test ordered",
+            "visit": {
+                "3": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 11,
+            "action": "Physical therapy prescription",
+            "visit": {
+                "5": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 12,
+            "action": "Alternative therapy such as acupuncture, chiropractic, massage, yoga, Tai Chi and mindful mediation are optional",
+            "visit": {
+                "5": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 13,
+            "action": "HLA-B27 testing ordered",
+            "visit": {
+                "5": {
+                    "msg": ""
+                },
+                "8": {
+                    "msg": "HLC-B27 is negative"
+                }
+            }
+        },
+        {
+            "aId": 14,
+            "action": "full skin cancer screening recommended each year",
+            "visit": {
+                "6": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 15,
+            "action": "diligent photoprotection with physical blocking agents recommended",
+            "visit": {
+                "6": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 16,
+            "action": "high-dose Zyrtec, twice daily",
+            "visit": {
+                "6": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 17,
+            "action": "continued sun protection",
+            "visit": {
+                "6": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 18,
+            "action": "continued self-skin examination and observation",
+            "visit": {
+                "6": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 19,
+            "action": "Ketoconazole shampoo recommended",
+            "visit": {
+                "6": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 20,
+            "action": "continued observation",
+            "visit": {
+                "6": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 21,
+            "action": "neuropsychometric test followup",
+            "visit": {
+                "7": {
+                    "msg": "mild inefficiency of attention; occassional mild impulsivity; high depression"
+                }
+            }
+        },
+        {
+            "aId": 22,
+            "action": "neurology consultation scheduled in June",
+            "visit": {
+                "7": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 23,
+            "action": "order T3 and free T3",
+            "visit": {
+                "7": {
+                    "msg": ""
+                },
+                "8": {
+                    "msg": "free T3 is elevated"
+                }
+            }
+        },
+        {
+            "aId": 24,
+            "action": "Endocrinology consult pending",
+            "visit": {
+                "7": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 25,
+            "action": "draw vitamin D level",
+            "visit": {
+                "7": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 26,
+            "action": "maintain daily elemental calcium intake of 1200mg",
+            "visit": {
+                "7": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 27,
+            "action": "Participate in daily weightbearing exercise such as walking",
+            "visit": {
+                "7": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 28,
+            "action": "Recheck bone density in 2 years",
+            "visit": {
+                "7": {
+                    "msg": ""
+                }
+            }
+        },
+        {
+            "aId": 29,
+            "action": "follow up with local psychiatrist",
+            "visit": {
+                "8": {
+                    "msg": ""
+                }
+            }
+        }
+    ]
+}
