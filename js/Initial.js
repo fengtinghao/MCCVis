@@ -1,7 +1,7 @@
 // Set control parameter, arrange whole interface, read data
 
 // Global control
-let lstCase = ['','case1','case2'];
+let lstCase = ['case1','case2'];
 let pnlVisit, pnlDiagnosis,pnlAction;   // Define the main objects
 let intSeverity = 3;   // Index of severity
 let sclSeverity, sclSpecialityColor;   // Scale for severity
@@ -170,6 +170,8 @@ function StartCase(eleSelect){
     })
 }
 
+// start case 1
+StartCase({value:'case1'});
 
 
 // Add new diagnosis
